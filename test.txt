@@ -2,4 +2,9 @@
 
  Hi  How are you doing today ??
 
- How was your weekend ??
+ How was your weekend ?
+ ?
+
+ Learn Hadoop
+
+/usr/bin/bash: q: command not found
